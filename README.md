@@ -1,3 +1,7 @@
+## Site mobile-first
+
+Esse site foi desenvolvido através do curso de formação HTML e CSS da Alura, usando alguns elementos de lay-out para o site ser responsivo. a telas de celular.
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
