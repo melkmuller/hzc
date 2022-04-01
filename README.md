@@ -1,6 +1,6 @@
 ## Site mobile-first
 
-Esse site foi desenvolvido através do curso de formação HTML e CSS da Alura, usando alguns elementos de lay-out para o site ser responsivo. a telas de celular.
+Esse site foi desenvolvido através do curso de formação HTML e CSS da Alura, usando alguns elementos de lay-out para o site ser responsivo. a telas de celular. Atualmente está somente com a página Home. Futuramente estarei implementando outras funções que ainda não aprendi.
 
 # Guia de estilos
 
