@@ -93,15 +93,3 @@ Espaço entre elementos: `16px/8px`
 Espaçamento interno do corpo: `16px`
 
 Espaçamento entre o título do cartão de recentes e seus itens: `24px`
-
-## Tamanhos
-
-Tamanho do dispositivo mobile: `360px`
-
-Tamanho do dispositivo desktop: `1440px`
-
-Largura máxima do conteúdo principal: `1120px`
-
-Largura máxima de um cartão desktop: `256px`
-
-Altura mínima de um cartão: `320px`
